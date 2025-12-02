@@ -1,1 +1,2 @@
-This is my first file. Changes made.
+This is my first file. Changes made are no longer needed.
+Removing the old code.
